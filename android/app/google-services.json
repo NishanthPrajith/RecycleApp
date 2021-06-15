@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299593495023",
+    "project_id": "recycleapp-e311d",
+    "storage_bucket": "recycleapp-e311d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299593495023:android:74d67e7a888f8106c6c61a",
+        "android_client_info": {
+          "package_name": "com.example.garbage_disposal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299593495023-frmhdc5fs9giqmn42bk09kh1g34c2gbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg74m0lSfnzKNBA7VN0Pb4DUoS_AEFaMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299593495023-frmhdc5fs9giqmn42bk09kh1g34c2gbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
